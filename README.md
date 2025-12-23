@@ -27,4 +27,4 @@ A 2D Flappy Bird clone developed using **Unity** and **C#** as a learning projec
 - Input handling (keyboard / touch)
 
 ## 👤 Author
-Siddhu
+Siddhant Junnare
